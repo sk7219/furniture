@@ -1,0 +1,45 @@
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+}
+.div2{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-left: 400px;
+    
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    
+}
+.div4{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-left: 600px;
+    
+   
+}
+.div5{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(74, 69, 139);
+    position: absolute;
+}
+.div6{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(83, 173, 80);
+    margin-left: 800px;
+}
+.div7{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
